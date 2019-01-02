@@ -8,7 +8,7 @@ Actually New York Times provides more than [Times APIs](https://developer.nytime
 ## Description of the Scraping Task
 The target of the author is to collect financial news(broadly speaking), from New York Times by companies. A sample webpage looks like this:
 
-<img src = "Sample Webpage.jpeg" height = "400">
+<img src = "Sample Webpage.jpg" height = "400">
 
 Date, headline and summary are desired and sample data are given in the two .txt file        .
 
