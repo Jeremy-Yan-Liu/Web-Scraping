@@ -4,6 +4,7 @@ This repository demonstrates two ways of crawling webpages from  New York Times 
 Actually New York Times provides more than [Times APIs](https://developer.nytimes.com/) to respond to request calls, but it turned out that it cannot satisfy my specific needs. Thus, instead, I used two methods -- [Selenium](https://selenium-python.readthedocs.io/) and [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), [Scrapy](https://scrapy.org/) and [JMESPath](http://jmespath.org/), to collect and parse the raw webpage. 
 
 <img src = "New York Times APIs At A Glance.png" height = "400">
+The picture above is from https://developer.nytimes.com/.
 
 ## Description of the Scraping Task
 The target of the author is to collect financial news(broadly speaking), from New York Times by companies. A sample webpage looks like this:
