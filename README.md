@@ -16,7 +16,7 @@ The target of the author is to collect financial news(broadly speaking), from Ne
 <img src = "Sample Webpage.jpg" height = "400">
 
 
-Date, headline and summary are desired and sample data are given in the two txt file [microsoft.txt](../blob/master/microsoft.txt) and [general-motors.txt](../blob/master/general-motors.txt).
+Date, headline and summary are desired and sample data are given in the two txt file [microsoft.txt](../master/microsoft.txt) and [general-motors.txt](../master/general-motors.txt).
 
 After successfully installing the Scrapy package, open a terminal and go to the directory where the created scrapy robot is stored. Run 
 ```
