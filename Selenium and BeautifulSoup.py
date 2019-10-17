@@ -19,12 +19,10 @@ def scrapeNYT(URL,n): # n represents the number of articles on the URL website
     driver.implicitly_wait(30)
     driver.get(URL)
 
-    ```
     # Find 'showMoreButton' on the page
     showMoreButton = driver.find_element_by_xpath('//*[@id="latest-panel"]/div[1]/div/div/button')
     # Click the 'showMoreButton'
     showMoreButton.click()
-    ```
 
     # Scroll a page with infinite loading
     # Reference:
